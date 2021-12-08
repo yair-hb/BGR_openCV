@@ -1,3 +1,4 @@
+#ete codigo muetra la imagen de prueba en bgr y despues en otra ventana en rgb
 import cv2
 import numpy as np
 
